@@ -33,3 +33,5 @@ The best way that I've found to measure the thickness you'll need is by using a 
 
 ![](readme_attachments/digital-calipers.jpg)
 
+I actually realize why my design was fitting loose after taking this pic. I designed for a plywood of 5.09mm and the section I was cutting was 5mm ;P
+
